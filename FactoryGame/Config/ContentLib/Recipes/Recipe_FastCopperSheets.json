@@ -1,0 +1,19 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Fast Copper Sheets",
+  "Ingredients": [
+    {
+      "Item": "Desc_CopperIngot",
+      "Amount": 30
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_CopperSheet",
+      "Amount": 15
+    }
+  ],
+  "ManufacturingDuration": 2,
+  "ProducedIn": [ "manual" ],
+  "UnlockedBy": [ "Schematic_Tutorial1" ]
+}

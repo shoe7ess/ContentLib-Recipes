@@ -1,0 +1,24 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Fast Steel Ingots",
+  "Ingredients": 
+  [
+    {
+      "Item": "Desc_OreIron",
+      "Amount": 25
+    },
+    {
+      "Item": "Desc_Coal",
+      "Amount": 25
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_SteelIngot",
+      "Amount": 25
+    }
+  ],
+  "ManufacturingDuration": 2,
+  "ProducedIn": [ "manual" ],
+  "UnlockedBy": [ "Schematic_Tutorial1" ]
+}

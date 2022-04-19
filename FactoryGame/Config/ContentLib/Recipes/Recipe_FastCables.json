@@ -1,0 +1,19 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Fast Cables",
+  "Ingredients": [
+    {
+      "Item": "Desc_Wire",
+      "Amount": 50
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Cable",
+      "Amount": 25
+    }
+  ],
+  "ManufacturingDuration": 2,
+  "ProducedIn": [ "manual" ],
+  "UnlockedBy": [ "Schematic_Tutorial1" ]
+}

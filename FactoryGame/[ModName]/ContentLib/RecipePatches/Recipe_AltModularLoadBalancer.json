@@ -1,0 +1,32 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Cheaper Modular Load Balancer",
+  "Ingredients": 
+  [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 8
+    },
+    {
+      "Item": "Desc_Cable",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 4
+    },
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularLoadBalancer",
+      "Amount": 1
+    }
+  ],
+  "ManufacturingDuration": 2,
+  "ProducedIn": [ "manual" ],
+  "UnlockedBy": [ "Schematic_1-1" ]
+}

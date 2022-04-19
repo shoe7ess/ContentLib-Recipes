@@ -1,0 +1,24 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Fast Modular Frames",
+  "Ingredients": 
+  [
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_IronRod",
+      "Amount": 60
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_ModularFrame",
+      "Amount": 10
+    }
+  ],
+  "ManufacturingDuration": 2,
+  "ProducedIn": [ "manual" ],
+  "UnlockedBy": [ "Schematic_Tutorial1" ]
+}

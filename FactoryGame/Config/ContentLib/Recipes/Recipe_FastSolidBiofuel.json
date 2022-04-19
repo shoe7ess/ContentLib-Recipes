@@ -1,0 +1,19 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Fast Biofuel",
+  "Ingredients": [
+    {
+      "Item": "Desc_GenericBiomass",
+      "Amount": 40
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Biofuel",
+      "Amount": 20
+    }
+  ],
+  "ManufacturingDuration": 2,
+  "ProducedIn": [ "manual" ],
+  "UnlockedBy": [ "Schematic_Tutorial1" ]
+}

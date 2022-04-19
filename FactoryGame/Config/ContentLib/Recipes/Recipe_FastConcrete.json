@@ -1,0 +1,19 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Fast Concrete",
+  "Ingredients": [
+    {
+      "Item": "Desc_Stone",
+      "Amount": 30
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_Cement",
+      "Amount": 10
+    }
+  ],
+  "ManufacturingDuration": 2,
+  "ProducedIn": [ "manual" ],
+  "UnlockedBy": [ "Schematic_Tutorial1" ]
+}

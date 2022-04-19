@@ -1,0 +1,23 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Fast Reinforced Plates",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 30
+    },
+    {
+      "Item": "Desc_IronScrew",
+      "Amount": 60
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_IronPlateReinforced",
+      "Amount": 5
+    }
+  ],
+  "ManufacturingDuration": 2,
+  "ProducedIn": [ "manual" ],
+  "UnlockedBy": [ "Schematic_Tutorial1" ]
+}

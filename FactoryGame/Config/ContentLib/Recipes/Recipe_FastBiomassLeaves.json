@@ -1,0 +1,19 @@
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Name": "Fast Biomass Leaves",
+  "Ingredients": [
+    {
+      "Item": "Desc_Leaves",
+      "Amount": 100
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_GenericBiomass",
+      "Amount": 50
+    }
+  ],
+  "ManufacturingDuration": 2,
+  "ProducedIn": [ "manual" ],
+  "UnlockedBy": [ "Schematic_Tutorial1" ]
+}
